@@ -11,6 +11,8 @@
 - $ethan: I'm so jacked to be a part of projects that are used in production.
 - zesty: I'm the kind of kid that stays in our hackerspace until the janitors kick me out.  I love this stuff...
 - hiterson: I'm starting my BS in computer science next year and pretty much love my Mac and my cars...
+- purvesta: I can't wait to start my next project!
+
 
 ## Languages we love
 
