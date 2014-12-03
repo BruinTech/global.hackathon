@@ -1,6 +1,6 @@
-# Team NeverL4N
+# Team NeverLAN
 
-- NeverL4N: This is the name of our HackerSpace at our local high school where we rock inspiration and exploration!
+- NeverLAN: This is the name of our HackerSpace at our local high school where we rock inspiration and exploration!
 
 - Norsky: I'm a freelance developer and programming instructor at our local high school.  We do a ton with mobile and web app development and security!
 - xxnbeatxx: I'm a highschool student and absolutely LOVE to code!  
