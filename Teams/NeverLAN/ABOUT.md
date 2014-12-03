@@ -24,4 +24,4 @@
 - C
 - Java (still on the fence...)
 - Dart
-- Bash Scriping
+- Bash Scripting
